@@ -21,3 +21,4 @@ Recursive Self-Improvement refers to the process by which an AI system, particul
 ### Other
 - [No Priors Ep. 118 | With Anthropic Co-Founder Ben Mann](https://www.youtube.com/watch?v=aStf54Vxy24)
     [18:08](https://www.youtube.com/watch?v=aStf54Vxy24&t=1088s) Human Feedback and AI Self-Improvement
+- [The Gentle Singularity - Sam Altman](https://blog.samaltman.com/the-gentle-singularity#:~:text=recursive%20self%2Dimprovement.)
