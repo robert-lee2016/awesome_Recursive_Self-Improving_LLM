@@ -1,5 +1,7 @@
-# awesome_Recursive_Self-Improving_LLM
+# Awesome_Recursive_Self_Improving_LLM
 Recursive Self-Improvement refers to the process by which an AI system, particularly LLMs, improves its own architecture, knowledge, or reasoning abilities without human intervention. This repository serves as a hub for researchers, developers, and enthusiasts interested in advancing the frontier of self-evolving AI systems.
+
+> ⭐️ Want to contribute? Send us a pull request! New papers are welcome.
 
 
 ### Paper
