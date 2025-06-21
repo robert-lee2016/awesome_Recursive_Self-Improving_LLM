@@ -15,6 +15,7 @@ Recursive Self-Improvement refers to the process by which an AI system, particul
 - [Can Large Reasoning Models Self-Train?](https://self-rewarding-llm-training.github.io/)
 - [Agents of Change:
 Self-Evolving LLM Agents for Strategic Planning](https://arxiv.org/pdf/2506.04651)
+- [ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering](https://arxiv.org/pdf/2505.23723)
 
 ### Project
 -  [OpenAlpha_Evolve](https://github.com/shyamsaktawat/OpenAlpha_Evolve)
